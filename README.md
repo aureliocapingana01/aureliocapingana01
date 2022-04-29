@@ -8,8 +8,8 @@
 
 - <div align="center">
   <a href="https://github.com/aureliocapingana01">
-  <img height="200em" width="47%" src="https://github-readme-stats.vercel.app/api?username=aureliocapingana01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliocapingana01&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=aureliocapingana01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliocapingana01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <h2> As Linguagens que eu uso </h2>
