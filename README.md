@@ -1,9 +1,9 @@
-<h1>👍Olá, sejá bem vindo ao meu Github!! </h1>
+<h1>👍Olá, sejá Bem Vindo ao meu Github!! </h1>
 
-- 🙋🏾 Eu sou o Aurélio Capingana
-- 📚 Estudante de Programação
-- 💻 Aprendendo para ser um dev Full-Stack
-- 🤪 Pronouns: Ele/Dele 
+- 🙋🏾 Eu sou o **_AURÉLIO CAPINGANA_**
+- 📚 Estudante de **Programação**
+- 💻 Aprendendo para ser um **Dev Full-Stack**
+- 🤪 Pronouns: **Ele/Dele** 
 
 
 - <div align="center">
