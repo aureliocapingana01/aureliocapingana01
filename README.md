@@ -1,7 +1,9 @@
-- 👍Olá Eu sou o Aurélio Capingana
+<h1>👍Olá, sejá bem vindo ao meu Github!! </h1>
+
+- 🙋🏾 Eu sou o Aurélio Capingana
 - 📚 Estudante de Programação
-- 💻 Aprendendo para ser um Full-Stack
-- 🤪Pronouns: Ele/Dele 
+- 💻 Aprendendo para ser um dev Full-Stack
+- 🤪 Pronouns: Ele/Dele 
 
 
 - <div align="center">
@@ -10,16 +12,18 @@
   <img height="200em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliocapingana01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+  <h2> As Linguagens que eu uso </h2>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="aureliocapingana01-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="aureliocapingana01-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="aureliocapingana01-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="aureliocapingana01-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
- 
 </div>
   
   ##
+  
+  <h2> Minhas redes socias </h2>
   
   <div>
      <a href="https://www.youtube.com/channel/UCBeWNDPVXCJgdWRPHfQxkew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
