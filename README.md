@@ -25,6 +25,15 @@
   
   <h2> Minhas redes socias </h2>
   
+      {
+      icon: 'vscode',
+      extensions: ['code-workspace', 'code-snippets'],
+      filenamesGlob: [],
+      extensionsGlob: [],
+      filename: false,
+      format: FileFormat.svg,
+    },
+  
   <div>
      <a href="https://www.youtube.com/channel/UCBeWNDPVXCJgdWRPHfQxkew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aurelio_capingana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
